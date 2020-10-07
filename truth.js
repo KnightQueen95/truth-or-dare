@@ -93,6 +93,5 @@ const challenge = {
   ],
   penalty: [
     "Get beaten up by the whole group HARD and the one who dosent beat also gets beaten up",
-   
   ]
 };
